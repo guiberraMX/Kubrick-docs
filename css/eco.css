@@ -763,7 +763,7 @@ header .navbar-default.scrolled {
   border-bottom: 3px solid #0f0f11;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #0f0f11;
+  color: #D7611A;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
   color: #0f0f11;
@@ -772,7 +772,7 @@ header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
   background: #0f0f11;
 }
 header .navbar-default.scrolled .navbar-brand {
-  background: #339999;
+  background: #D7611A;
 }
 section .section-heading .divider:after {
   background: #66cc99;
