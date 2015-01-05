@@ -527,7 +527,7 @@ section::after {
   z-index: 2;
 }
 .tp-caption {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: 'Lato', Arial !important;
   -webkit-font-smoothing: antialiased;
 }
 .tp-caption.large_white_bold {
